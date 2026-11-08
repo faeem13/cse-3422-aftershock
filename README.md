@@ -4,7 +4,7 @@ One sentence: who this is for and what problem it solves.
 
 | | |
 |---|---|
-| **Team** | Mohammad Saiful Islam Fahim [@faeem13]([@faeem13](https://github.com/faeem13)), BackEndDeveloper · Name (@github-handle), role · … |
+| **Team** | Mohammad Saiful Islam Fahim [@faeem13](https://github.com/faeem13), BackEndDeveloper · Name (@github-handle), role · … |
 | **Jira board** | https://YOUR-SITE.atlassian.net/jira/software/projects/KEY/boards/1 |
 | **Live app** | Added in Class 8 |
 | **Stack** | Frontend: … · Backend: … · Database: … · External API: … |
