@@ -5,7 +5,7 @@ One sentence: who this is for and what problem it solves.
 | | |
 |---|---|
 | **Team** | Mohammad Saiful Islam Fahim [@faeem13](https://github.com/faeem13), BackEndDeveloper · Name (@github-handle), role · … |
-| **Jira board** | https://YOUR-SITE.atlassian.net/jira/software/projects/KEY/boards/1 |
+| **Jira board** | https://softwareengbse.atlassian.net/?continue=https%3A%2F%2Fsoftwareengbse.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiZjg4Nzg1NTUwZjFlNGJmZmJlYjc1ZDJjMTljODEwMDAiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9|
 | **Live app** | Added in Class 8 |
 | **Stack** | Frontend: … · Backend: … · Database: … · External API: … |
 | **Course** | UIU CSE 3422 Software Engineering Laboratory, Fall 2026 |
@@ -24,7 +24,7 @@ The exact command(s).
 |---|---|---|
 | Team contract | [docs/team-contract.md](docs/team-contract.md) | Before Class 2 |
 | Specification | [docs/specification.md](docs/specification.md) | Draft before Class 3, tag `spec-v1` by Class 4 |
-| Proposal slides | `docs/proposal.pdf` | Before Class 4 |
+| Proposal slides | [docs/proposal.pdf](docs/proposal.pdf) | Before Class 4 |
 | Design document and ADRs | [docs/design.md](docs/design.md), [docs/adr/](docs/adr/) | Draft before Class 5, tag `design-v1` by Class 6 |
 | Test evidence | [docs/test-evidence.md](docs/test-evidence.md) | Class 7 onwards |
 | API tests (Postman) | [api-tests/](api-tests/) | Class 7 onwards |
